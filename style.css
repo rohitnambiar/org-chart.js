@@ -1,0 +1,14 @@
+html, body {
+    margin: 0;
+    padding: 0;
+    background: #fff;
+    font-family: 'Helvetica';
+    overflow: scroll;
+    width: 100%;
+    height: 100%;
+    font-size: 12px;
+}
+
+* {
+    box-sizing: border-box !important;
+}
